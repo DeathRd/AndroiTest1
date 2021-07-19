@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WhoAmI</string>
+    <string name="LoginPassWord">密码:</string>
+    <string name="LoginUserName">账号:</string>
+    <string name="LoginButton">登录</string>
+    <string name="LoginForget">忘记密码</string>
+    <string name="LoginRegister">注册</string>
+
+    <string name="LoginImage">LoginImage</string>
+    <string name="registerName">registerName</string>
+    <string name="registerCheck">验证</string>
+    <string name="registerBtn">注册</string>
+    <string name="todo">TODO</string>
+    <string name="SettingImgBtn1">SettingImgBtn1</string>
+    <string name="todo2">TODO</string>
+    <string-array name="languages">
+        <item>0.5小时</item>
+        <item>1小时</item>
+        <item>1.5小时</item>
+        <item>2小时</item>
+        <item>2.5小时</item>
+        <item>3小时</item>
+    </string-array>
+</resources>

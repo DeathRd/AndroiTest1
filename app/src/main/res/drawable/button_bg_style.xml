@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--填充色-->
+    <solid android:color="@android:color/transparent"/>
+    <!--边框的宽 和 边框颜色-->
+    <stroke android:width="0.5px" android:color="#FF0400"/>
+
+</shape>
